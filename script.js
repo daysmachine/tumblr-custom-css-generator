@@ -5,17 +5,17 @@
         //Stop the form from submitting:
         e.preventDefault();
 
-        //Get your input value (and save to js variable)
+        //save Inputs
         let postColor = document.getElementById("post-color").value;
 
-        //view Results 
+        //View Results 
         let viewPostColor = document.getElementById("viewPostColor");
         viewPostColor.innerHTML = ".post {" + "<br>" + "color:" + postColor + "<br>" + "}"; 
 
     });
 });
 
-
+//clear Screen 
 function clearScreen() {
     viewPostColor.innerHTML = ""; 
 }
