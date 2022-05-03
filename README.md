@@ -1,5 +1,5 @@
 # [tumblr-custom-css-generator](https://daysmachine.github.io/tumblr-custom-css-generator/)
-generates custom css for tumblr users! 
+generates custom css for tumblr users! Designed to be used with the tumblr official theme. 
 
 
 # contribution guidelines
