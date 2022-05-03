@@ -28,11 +28,14 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
 **Additional context**
 Add any other context about the problem here.
+
+Join the **Discord Server** for further discussions.
+
+<a href="https://discord.gg/qfRZZH7Jwv">
+<img src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="GPRG Discord Server Link" width="300px"/>
+</a>
+
+Server Link: https://discord.gg/qfRZZH7Jwv
+
