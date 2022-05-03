@@ -42,3 +42,6 @@ If you are adding an input variable:
 
 # Any Questions 
 Reach out to me on [Discord](https://discord.gg/qfRZZH7Jwv) for any questions. 
+
+### Helpful Resources: 
+* https://developer.chrome.com/docs/devtools/overview/
