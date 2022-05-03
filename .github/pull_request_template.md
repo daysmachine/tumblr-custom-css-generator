@@ -8,7 +8,7 @@ What's changed, or what was fixed?
 **Labels:** `related-label`
 
 ## QA Instructions, Screenshots, Recordings
-Include at least one screenshot of fix here. Any additional documentation that may be helpful can go here. 
+Any additional documentation that may be helpful can go here. 
 
 
 ## PR Requirements 
