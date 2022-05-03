@@ -18,3 +18,12 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+Join the **Discord Server** for further discussions.
+
+<a href="https://discord.gg/qfRZZH7Jwv">
+<img src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="GPRG Discord Server Link" width="300px"/>
+</a>
+
+Server Link: https://discord.gg/qfRZZH7Jwv
+
