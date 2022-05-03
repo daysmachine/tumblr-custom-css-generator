@@ -8,7 +8,7 @@
         //save Inputs
         let postColor = document.getElementById("post-color").value;
 
-        //View Results 
+        //view Results 
         let viewPostColor = document.getElementById("viewPostColor");
         viewPostColor.innerHTML = ".post {" + "<br>" + "color:" + postColor + "<br>" + "}"; 
 
