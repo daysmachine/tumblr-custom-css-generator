@@ -28,7 +28,11 @@ generates custom css for tumblr users!
     * right-click index.html, copy path, and paste path onto a browser. 
 
 ## How to Test
-1. Please make sure output is correct by manually testing the code you have implemented. Any PRs will be reviewed by me before being accepted. 
+Please make sure output is correct by locally testing the code you have implemented. Any PRs will be reviewed by me before being accepted. 
+
+If you are adding an input variable:
+1. Navigate to "ADD CUSTOM CSS" within tumblr. 
+2. copy and paste your change into the input area within tumblr. If the code is correct, you should see your change live in the tumblr preview area. 
 
 # Coding Standards 
 [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
