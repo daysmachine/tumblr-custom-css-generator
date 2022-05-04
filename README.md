@@ -1,11 +1,24 @@
+<div align="center">
+   
 # [tumblr-custom-css-generator](https://daysmachine.github.io/tumblr-custom-css-generator/)
-generates custom css for tumblr users! Designed to be used with the tumblr official theme. 
+Generates custom css for tumblr users! Designed to be used with tumblr's official theme. 
 
+<kbd>
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/28377370/166581689-114ccbb0-4823-454d-8020-855d016b2cd8.png">
+</kbd>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+   
+# Contribution Guidelines
 
 
+<p>Please read the following information before contributing to this repo!</p> 
 
-# contribution guidelines
+</div>
 
 ## How to Contribute
 1. Pick an existing issue to work on
@@ -37,13 +50,7 @@ If you are adding an input variable:
 1. Navigate to "ADD CUSTOM CSS" within tumblr. 
 2. copy and paste your change into the input area within tumblr. If the code is correct, you should see your change live in the tumblr preview area. 
 
-# Coding Standards 
-[Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
-
-# Any Questions 
-Reach out to me on [Discord](https://discord.gg/qfRZZH7Jwv) for any questions. 
-
-### Helpful Resources: 
+## Helpful Resources: 
 * https://developer.chrome.com/docs/devtools/overview/
 * How to find an input variable: 
   * apply style to the div you are targeting (be creative) 
@@ -52,5 +59,14 @@ Reach out to me on [Discord](https://discord.gg/qfRZZH7Jwv) for any questions.
 
 https://user-images.githubusercontent.com/28377370/166612430-4173e4cd-3a52-4d92-81ec-ef3b5589d706.mp4
 
+## Coding Standards 
+[Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 
+## Any Questions
+Reach out to me on Discord for any questions. 
 
+<a href="https://discord.gg/qfRZZH7Jwv">
+<img src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="GPRG Discord Server Link" width="300px"/>
+</a>
+
+Server Link: https://discord.gg/qfRZZH7Jwv
