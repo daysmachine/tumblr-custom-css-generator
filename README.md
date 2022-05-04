@@ -45,3 +45,12 @@ Reach out to me on [Discord](https://discord.gg/qfRZZH7Jwv) for any questions.
 
 ### Helpful Resources: 
 * https://developer.chrome.com/docs/devtools/overview/
+* How to find an input variable: 
+  * apply style to the div you are targeting (be creative) 
+  * find out what the class name is 
+  * add the variable to this repo!
+
+https://user-images.githubusercontent.com/28377370/166612430-4173e4cd-3a52-4d92-81ec-ef3b5589d706.mp4
+
+
+
