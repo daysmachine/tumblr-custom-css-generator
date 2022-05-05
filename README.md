@@ -53,6 +53,9 @@ If you are adding an input variable:
 ## Helpful Resources: 
 * https://developer.chrome.com/docs/devtools/overview/
 * How to find an input variable: 
+  * Navigate to a tumblr blog (you can use [my blog](https://bluetoadmoneyghost-blog.tumblr.com/))
+  * right (or double) click anywhere on the website and press inspect 
+  * select an element on the page to inspect it
   * apply style to the div you are targeting (be creative) 
   * find out what the class name is 
   * add the variable to this repo!
